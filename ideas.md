@@ -1,8 +1,7 @@
-Ideas for Meetups
-=================
-
-Meetup Discussion Ideas
------------------------
+---
+layout: default
+title: Meetup Discussion Ideas
+---
 
 - Open licenses
     - What are appropriate use cases for each license?

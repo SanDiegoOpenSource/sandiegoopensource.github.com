@@ -1,5 +1,7 @@
-How to be a good Contributor
-============================
+---
+layout: default
+title: How to be a good Contributor
+---
 
 General advice for contributing or maintaining:
 

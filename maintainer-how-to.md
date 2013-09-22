@@ -1,5 +1,7 @@
-How to be a good Maintainer
-===========================
+---
+layout: default
+title: How to be a good Maintainer
+---
 
 General advice for contributing or maintaining:
 

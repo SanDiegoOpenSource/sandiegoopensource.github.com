@@ -1,5 +1,7 @@
-Open Source vs. Free Software
-=============================
+---
+layout: default
+title: Open Source vs. Free Software
+---
 
 **Restricted Open Source**: you can look at the code but you can't do anything with it.
 

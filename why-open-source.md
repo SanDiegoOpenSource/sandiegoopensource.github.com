@@ -1,5 +1,7 @@
-Why Open Source?
-================
+---
+layout: default
+title: Why Open Source?
+---
 
 **TODO**
 

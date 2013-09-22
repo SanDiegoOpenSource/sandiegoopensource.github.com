@@ -1,5 +1,7 @@
-Legal Issues
-============
+---
+layout: default
+title: Legal Issues
+---
 
 You need a license
 ------------------
