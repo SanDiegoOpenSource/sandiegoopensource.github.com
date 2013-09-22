@@ -1,0 +1,4 @@
+name: San Diego Open Source
+markdown: redcarpet
+pygments: true
+permalink: pretty
